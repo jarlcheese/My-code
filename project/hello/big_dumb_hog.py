@@ -1,2 +1,2 @@
 henry = 'big dumb hog'
-print('big' in henry)
+print(henry.replace('dumb', 'congruent'))
