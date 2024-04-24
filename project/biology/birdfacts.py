@@ -16,7 +16,7 @@ elif (bird_species) == "Red-belllied woodpecker" or (bird_species) == "woodpecke
     print("The red-bellied woodpecker is a medium-sized woodpecker with black and white striped plumage, a red cap, and a faint blush of red on its belly, often seen foraging on trees in wooded areas.")
 elif (bird_species) == "Bald eagle" or (bird_species) == "bald eagle":
     print("The bald eagle is a majestic bird of prey with a white head and tail, a dark brown body, a large hooked yellow beak, and a wingspan that can reach up to 7 feet, symbolizing strength and freedom.")
-elif (bird_species) == "Mallard" or (bird_species) == "duck" or (bird_species) == "Duck":
+elif (bird_species) == "Mallard" or (bird_species) == "Mallard" or (bird_species) == "duck" or (bird_species) == "Duck":
     print("The mallard is a common dabbling duck with distinctive iridescent green head, yellow bill, and curled black tail feathers, often found in ponds, lakes, and rivers across North America and Eurasia.")
 elif (bird_species) == "Canadian goose" or (bird_species) == "Goose" or (bird_species) == "goose":
     print("The Canada goose is a large waterfowl with a black head and neck, white cheeks, and a brown body, known for its distinctive honking call and V-shaped flight formations during migration.")
