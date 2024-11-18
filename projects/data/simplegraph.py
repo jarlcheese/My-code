@@ -11,4 +11,3 @@ plt.xlabel('Species ID')
 plt.ylabel ('Counts')
 plt.title('Species Counts by Species ID')
 plt.show()
-
